@@ -1,0 +1,501 @@
+﻿EmployeeID,Gender,JobLevelAfter20,NewHireFY20,FY20PerformanceRating,PromotionInFY21,InBaseGroupForPromotionFY21,InBaseGroupForTurnoverFY20,DepartmentJuly2020,LeaverFY20,JobLevelAfterFY21Promotions,LastDepartmentInFY20,TimeType,PromotionFY20,AgeOnJuly2020,Nationality,Years ,RAND
+1,Male,6,No,2,No,No,Yes,Operations,Yes,,Operations,Full Time,No,37,Spain,3,0.948861
+2,Female,4,No,3,No,Yes,Yes,Sales & Marketing,,4,Sales & Marketing,Full Time,No,37,Germany,3,0.345546
+3,Male,2,No,2,No,Yes,Yes,Strategy,,2,Strategy,Full Time,No,35,Switzerland,5,0.844604
+4,Male,4,No,3,No,Yes,Yes,HR,,4,HR,Full Time,No,32,Germany,8,0.900743
+5,Female,6,No,2,No,Yes,Yes,Sales & Marketing,,6,Sales & Marketing,Full Time,No,28,Switzerland,1,0.44295
+6,Female,4,Yes,,No,No,No,Internal Services,,4,Internal Services,Full Time,No,42,Italy,0,0.901041
+7,Male,3,Yes,,No,No,No,Operations,,3,Operations,Full Time,No,35,Italy,0,0.076974
+8,Female,5,No,2,No,Yes,Yes,HR,,5,HR,Full Time,No,34,Switzerland,7,0.80876
+9,Female,6,No,3,No,Yes,Yes,Sales & Marketing,,6,Sales & Marketing,Full Time,No,26,United States,1,0.289094
+10,Male,6,No,3,No,Yes,Yes,Internal Services,,6,Internal Services,Full Time,No,24,Switzerland,2,0.334559
+11,Male,4,No,3,No,Yes,Yes,Operations,,4,Operations,Full Time,No,34,Switzerland,9,0.004264
+12,Female,6,No,2,Yes,Yes,Yes,Strategy,,5,Strategy,Full Time,No,34,France,3,0.334036
+13,Male,5,No,2,No,Yes,Yes,Operations,,5,Operations,Full Time,No,29,Germany,5,0.036691
+14,Male,6,No,2,No,Yes,Yes,Operations,,6,Operations,Full Time,No,20,Switzerland,3,0.934468
+15,Male,6,No,3,No,No,Yes,Internal Services,Yes,,Internal Services,Full Time,No,28,France,1,0.741551
+16,Male,4,No,3,No,Yes,Yes,Strategy,,4,Strategy,Full Time,No,34,Germany,5,0.318137
+17,Male,6,No,3,No,Yes,Yes,Operations,,6,Operations,Full Time,No,24,Switzerland,2,0.914189
+18,Female,6,No,2,Yes,Yes,Yes,Sales & Marketing,,5,Sales & Marketing,Part Time,No,32,Italy,4,0.265808
+19,Male,5,No,2,No,Yes,Yes,Sales & Marketing,,5,Sales & Marketing,Full Time,No,30,Switzerland,3,0.058941
+20,Female,5,No,2,No,Yes,Yes,Operations,,5,Operations,Full Time,Yes,32,Germany,8,0.371729
+21,Male,3,No,3,No,No,Yes,Strategy,Yes,,Strategy,Full Time,No,31,Switzerland,7,0.523895
+22,Male,6,No,3,No,No,Yes,Sales & Marketing,Yes,,Sales & Marketing,Full Time,No,26,Switzerland,3,0.062274
+23,Male,2,No,3,No,Yes,Yes,Internal Services,,2,Internal Services,Full Time,No,44,Switzerland,5,0.345337
+24,Male,5,No,4,No,Yes,Yes,Sales & Marketing,,5,Sales & Marketing,Full Time,No,26,United Kingdom,6,0.249893
+25,Male,4,No,2,No,Yes,Yes,Operations,,4,Operations,Full Time,No,36,France,6,0.991994
+26,Male,6,No,2,No,Yes,Yes,Internal Services,,6,Internal Services,Full Time,No,22,Switzerland,2,0.083804
+27,Female,5,No,3,No,Yes,Yes,Internal Services,,5,Internal Services,Full Time,No,33,Switzerland,4,0.965748
+28,Male,5,No,4,No,Yes,Yes,Sales & Marketing,,5,Sales & Marketing,Full Time,No,27,Italy,4,0.860946
+29,Female,5,No,2,No,Yes,Yes,Finance,,5,Finance,Full Time,No,32,Italy,4,0.644533
+30,Male,6,No,2,No,Yes,Yes,Operations,,6,Operations,Full Time,No,25,Switzerland,1,0.661666
+31,Female,6,No,2,Yes,Yes,Yes,Operations,,5,Operations,Full Time,No,33,Switzerland,3,0.771123
+32,Male,4,No,1,Yes,Yes,Yes,Sales & Marketing,,3,Sales & Marketing,Full Time,No,30,Switzerland,8,0.637225
+33,Male,4,No,2,No,Yes,Yes,Sales & Marketing,,4,Sales & Marketing,Full Time,Yes,33,Germany,6,0.996808
+34,Female,5,No,1,Yes,Yes,Yes,Internal Services,,4,Internal Services,Full Time,No,37,Switzerland,6,0.349194
+35,Male,5,No,3,No,Yes,Yes,Internal Services,,5,Internal Services,Full Time,No,27,Switzerland,3,0.242523
+36,Male,3,No,1,No,Yes,Yes,Sales & Marketing,,3,Sales & Marketing,Full Time,No,39,Portugal,5,0.000084
+37,Male,6,No,2,No,Yes,Yes,Operations,,6,Operations,Full Time,No,25,Switzerland,2,0.027224
+38,Female,6,Yes,,No,No,No,Operations,,6,Operations,Full Time,No,27,Italy,0,0.45735
+39,Male,5,No,3,No,Yes,Yes,Internal Services,,5,Internal Services,Full Time,Yes,24,Switzerland,5,0.671922
+40,Male,6,No,3,No,Yes,Yes,Operations,,6,Operations,Full Time,No,21,Germany,3,0.758982
+41,Female,6,No,2,No,Yes,Yes,Operations,,6,Operations,Full Time,No,27,France,2,0.692911
+42,Female,6,No,3,No,Yes,Yes,Operations,,6,Operations,Full Time,No,28,Switzerland,1,0.25493
+43,Male,3,No,2,No,Yes,Yes,Operations,,3,Operations,Full Time,No,40,Switzerland,4,0.907601
+44,Female,6,No,2,No,Yes,Yes,Sales & Marketing,,6,Sales & Marketing,Full Time,No,23,Italy,2,0.596949
+45,Male,2,No,2,No,No,Yes,Internal Services,Yes,,Internal Services,Full Time,No,54,Switzerland,9,0.003156
+46,Male,6,No,2,No,Yes,Yes,Internal Services,,6,Internal Services,Full Time,No,26,France,3,0.087931
+47,Female,4,No,2,No,Yes,Yes,HR,,4,HR,Full Time,No,36,Austria,4,0.989776
+48,Female,6,No,3,No,Yes,Yes,Operations,,6,Operations,Full Time,No,22,France,3,0.857545
+49,Female,6,No,2,No,Yes,Yes,HR,,6,HR,Full Time,No,31,Switzerland,2,0.738673
+50,Female,6,No,3,No,Yes,Yes,Operations,,6,Operations,Full Time,No,22,Austria,2,0.737399
+51,Male,5,No,2,Yes,Yes,Yes,Operations,,4,Operations,Full Time,No,31,Switzerland,8,0.214152
+52,Male,4,No,2,No,Yes,Yes,Sales & Marketing,,4,Sales & Marketing,Full Time,No,32,France,8,0.927522
+53,Male,5,No,2,No,Yes,Yes,Sales & Marketing,,5,Sales & Marketing,Full Time,No,30,Switzerland,8,0.314053
+54,Male,5,No,2,Yes,Yes,Yes,Operations,,4,Operations,Full Time,No,33,Switzerland,8,0.834055
+55,Female,6,No,2,No,Yes,Yes,Sales & Marketing,,6,Sales & Marketing,Full Time,No,25,Switzerland,3,0.179016
+56,Male,6,Yes,,No,No,No,Sales & Marketing,,6,Sales & Marketing,Full Time,No,25,Switzerland,0,0.144665
+57,Female,4,No,,No,No,Yes,Sales & Marketing,Yes,,Sales & Marketing,Full Time,No,38,United Kingdom,4,0.880528
+58,Male,5,No,2,Yes,Yes,Yes,Sales & Marketing,,4,Sales & Marketing,Full Time,No,35,Switzerland,2,0.894639
+59,Male,6,No,2,No,Yes,Yes,Operations,,6,Operations,Full Time,No,22,Switzerland,1,0.872356
+60,Male,6,No,2,No,No,Yes,Operations,Yes,,Operations,Full Time,No,38,France,3,0.057067
+61,Female,6,No,3,No,Yes,Yes,Sales & Marketing,,6,Sales & Marketing,Full Time,No,23,France,1,0.660238
+62,Female,5,No,3,No,No,Yes,Operations,Yes,,Operations,Part Time,No,56,Switzerland,8,0.383686
+63,Male,6,No,2,No,Yes,Yes,Sales & Marketing,,6,Sales & Marketing,Full Time,No,20,United States,1,0.946086
+64,Male,2,No,3,No,Yes,Yes,Sales & Marketing,,2,Sales & Marketing,Full Time,No,36,Switzerland,9,0.109672
+65,Female,2,No,2,No,Yes,Yes,Sales & Marketing,,2,Sales & Marketing,Full Time,No,45,France,4,0.681623
+66,Female,3,No,3,No,Yes,Yes,Sales & Marketing,,3,Sales & Marketing,Full Time,Yes,39,Germany,5,0.798628
+67,Male,2,No,2,No,Yes,Yes,Operations,,2,Operations,Full Time,Yes,46,Switzerland,4,0.75825
+68,Male,5,No,3,No,Yes,Yes,Sales & Marketing,,5,Sales & Marketing,Full Time,No,25,Switzerland,6,0.839414
+69,Female,6,No,2,No,Yes,Yes,Operations,,6,Operations,Full Time,No,26,United Kingdom,2,0.350611
+70,Male,5,No,2,No,Yes,Yes,Sales & Marketing,,5,Sales & Marketing,Full Time,No,29,Switzerland,4,0.551418
+71,Female,4,No,3,No,Yes,Yes,Operations,,4,Operations,Full Time,No,40,Portugal,9,0.259967
+72,Female,5,No,2,No,Yes,Yes,Operations,,5,Operations,Full Time,No,34,France,4,0.547487
+73,Male,2,Yes,,No,No,No,Operations,,2,Operations,Full Time,No,51,Switzerland,0,0.634648
+74,Female,5,No,,No,No,Yes,Sales & Marketing,Yes,,Sales & Marketing,Part Time,No,41,Switzerland,3,0.514627
+75,Female,6,No,3,No,Yes,Yes,Sales & Marketing,,6,Sales & Marketing,Full Time,No,24,Switzerland,3,0.987347
+76,Female,4,No,2,Yes,Yes,Yes,Internal Services,,3,Internal Services,Full Time,No,43,Switzerland,8,0.75846
+77,Male,3,No,2,No,Yes,Yes,Sales & Marketing,,3,Sales & Marketing,Full Time,No,41,Germany,4,0.579088
+78,Female,5,No,2,No,Yes,Yes,Sales & Marketing,,5,Sales & Marketing,Part Time,No,31,Switzerland,8,0.864941
+79,Male,6,Yes,,No,No,No,Sales & Marketing,,6,Sales & Marketing,Full Time,No,26,Germany,0,0.904615
+80,Female,5,No,3,No,Yes,Yes,Operations,,5,Operations,Part Time,No,28,France,6,0.29025
+81,Male,2,No,3,No,Yes,Yes,Operations,,2,Operations,Full Time,No,42,Switzerland,7,0.874229
+82,Male,6,No,1,No,Yes,Yes,Internal Services,,6,Internal Services,Full Time,No,25,Switzerland,2,0.156364
+83,Female,6,No,4,No,Yes,Yes,Operations,,6,Operations,Full Time,No,23,Switzerland,3,0.623458
+84,Female,6,No,3,No,Yes,Yes,Operations,,6,Operations,Full Time,No,26,France,3,0.847275
+85,Male,2,No,4,No,No,Yes,Internal Services,Yes,,Internal Services,Full Time,No,33,France,3,0.996895
+86,Female,6,No,2,No,Yes,Yes,Sales & Marketing,,6,Sales & Marketing,Full Time,No,25,Switzerland,2,0.30404
+87,Male,1,No,,No,No,Yes,Internal Services,,1,Internal Services,Full Time,No,40,Switzerland,9,0.961586
+88,Male,6,No,2,Yes,Yes,Yes,HR,,5,HR,Full Time,No,24,Switzerland,3,0.56124
+89,Male,3,Yes,,No,No,No,Internal Services,,3,Internal Services,Full Time,No,38,Germany,0,0.904971
+90,Male,5,No,2,No,Yes,Yes,Sales & Marketing,,5,Sales & Marketing,Full Time,Yes,29,Switzerland,9,0.636039
+91,Male,5,No,2,Yes,Yes,Yes,Operations,,4,Operations,Full Time,Yes,31,Germany,5,0.134246
+92,Male,6,No,3,No,Yes,Yes,Operations,,6,Operations,Full Time,No,26,Switzerland,4,0.995129
+93,Male,2,No,3,No,Yes,Yes,Sales & Marketing,,2,Sales & Marketing,Full Time,No,39,Switzerland,6,0.605755
+94,Male,4,No,2,No,No,Yes,Operations,Yes,,Operations,Full Time,No,44,Switzerland,3,0.35594
+95,Male,3,No,4,No,No,Yes,Operations,Yes,,Operations,Full Time,No,40,Germany,8,0.990233
+96,Male,6,No,2,No,Yes,Yes,Operations,,6,Operations,Full Time,No,25,France,1,0.321668
+97,Female,4,No,2,No,Yes,Yes,HR,,4,HR,Full Time,No,40,Germany,3,0.021273
+98,Male,2,No,3,No,Yes,Yes,Operations,,2,Operations,Full Time,No,41,Switzerland,9,0.331882
+99,Female,6,No,3,No,Yes,Yes,Sales & Marketing,,6,Sales & Marketing,Full Time,No,28,France,3,0.101162
+100,Male,3,No,3,No,Yes,Yes,Internal Services,,3,Internal Services,Full Time,No,39,Germany,6,0.867728
+101,Female,6,No,2,No,Yes,Yes,Sales & Marketing,,6,Sales & Marketing,Full Time,No,22,Germany,2,0.416673
+102,Female,4,No,2,No,Yes,Yes,Operations,,4,Operations,Full Time,No,40,Israel,2,0.876942
+103,Male,6,No,2,No,Yes,Yes,Sales & Marketing,,6,Sales & Marketing,Full Time,No,22,France,5,0.464696
+104,Female,5,No,2,No,Yes,Yes,Sales & Marketing,,5,Sales & Marketing,Full Time,No,28,Switzerland,5,0.873375
+105,Male,4,Yes,,No,No,No,Sales & Marketing,,4,Sales & Marketing,Full Time,No,30,France,0,0.409403
+106,Male,2,No,1,No,Yes,Yes,Sales & Marketing,,2,Sales & Marketing,Full Time,No,35,France,3,0.737112
+107,Female,6,No,2,No,Yes,Yes,Operations,,6,Operations,Full Time,No,23,Switzerland,2,0.700371
+108,Male,3,No,3,No,Yes,Yes,Operations,,3,Operations,Full Time,No,34,France,6,0.85786
+109,Male,6,Yes,,No,No,No,Sales & Marketing,,6,Sales & Marketing,Full Time,No,24,Switzerland,0,0.810923
+110,Male,5,No,2,No,Yes,Yes,Internal Services,,5,Internal Services,Full Time,No,28,Switzerland,4,0.942515
+111,Female,5,Yes,,No,No,No,Finance,,5,Finance,Full Time,No,33,Germany,0,0.451638
+112,Female,6,No,2,No,Yes,Yes,Operations,,6,Operations,Full Time,No,27,Switzerland,1,0.227331
+113,Male,2,No,3,No,Yes,Yes,Strategy,,2,Strategy,Full Time,No,41,Switzerland,8,0.516812
+114,Male,4,No,3,No,Yes,Yes,Sales & Marketing,,4,Sales & Marketing,Full Time,No,31,Switzerland,7,0.102837
+115,Male,2,No,3,No,No,Yes,Finance,Yes,,Finance,Full Time,No,49,Switzerland,6,0.538627
+116,Male,5,No,3,No,Yes,Yes,Sales & Marketing,,5,Sales & Marketing,Full Time,No,26,France,2,0.491151
+117,Male,4,No,2,No,Yes,Yes,Internal Services,,4,Internal Services,Full Time,Yes,33,France,7,0.139679
+118,Female,3,No,,No,No,Yes,Sales & Marketing,Yes,,Sales & Marketing,Full Time,No,41,Switzerland,8,0.595472
+119,Female,6,No,2,No,Yes,Yes,Operations,,6,Operations,Part Time,No,22,France,1,0.193641
+120,Male,5,No,2,Yes,Yes,Yes,Sales & Marketing,,4,Sales & Marketing,Full Time,No,34,Switzerland,6,0.570345
+121,Male,6,No,3,No,No,Yes,Operations,Yes,,Operations,Full Time,No,46,Switzerland,3,0.256532
+122,Male,3,No,2,No,Yes,Yes,Sales & Marketing,,3,Sales & Marketing,Full Time,No,35,Switzerland,5,0.189106
+123,Female,6,No,3,No,Yes,Yes,Sales & Marketing,,6,Sales & Marketing,Full Time,No,30,Lebanon,2,0.337409
+124,Female,6,No,2,No,Yes,Yes,Operations,,6,Operations,Full Time,No,23,Switzerland,2,0.475386
+125,Male,3,Yes,,No,No,No,Operations,,3,Operations,Full Time,No,38,Switzerland,0,0.613318
+126,Female,6,Yes,,No,No,No,Internal Services,,6,Internal Services,Part Time,No,22,Germany,0,0.344061
+127,Male,1,No,,No,No,Yes,Finance,,1,Finance,Full Time,No,55,Switzerland,3,0.711799
+128,Male,1,No,,No,No,Yes,Strategy,,1,Strategy,Full Time,No,42,Switzerland,3,0.544622
+129,Male,6,No,2,No,Yes,Yes,Operations,,6,Operations,Full Time,No,22,Switzerland,4,0.231819
+130,Female,6,No,2,No,Yes,Yes,Sales & Marketing,,6,Sales & Marketing,Full Time,No,24,Germany,2,0.526745
+131,Male,6,No,2,No,Yes,Yes,Sales & Marketing,,6,Sales & Marketing,Full Time,No,23,Switzerland,2,0.814626
+132,Male,6,No,2,No,Yes,Yes,Internal Services,,6,Internal Services,Full Time,No,25,Germany,2,0.641058
+133,Female,4,No,3,No,Yes,Yes,Operations,,4,Operations,Full Time,No,38,Russia,3,0.744217
+134,Male,4,No,3,No,Yes,Yes,Sales & Marketing,,4,Sales & Marketing,Full Time,No,32,France,8,0.488141
+135,Female,6,No,3,No,Yes,Yes,Operations,,6,Operations,Part Time,No,19,Switzerland,1,0.422317
+136,Male,6,No,2,No,Yes,Yes,Operations,,6,Operations,Full Time,No,26,Switzerland,1,0.827984
+137,Male,3,No,2,Yes,Yes,Yes,Sales & Marketing,,2,Sales & Marketing,Full Time,No,40,France,2,0.628206
+138,Female,6,No,2,Yes,Yes,Yes,HR,,5,HR,Full Time,No,30,Sweden,6,0.8547
+139,Female,6,No,2,No,Yes,Yes,Sales & Marketing,,6,Sales & Marketing,Full Time,No,27,Italy,2,0.262926
+140,Male,3,No,2,No,Yes,Yes,Sales & Marketing,,3,Sales & Marketing,Full Time,No,39,Switzerland,5,0.906259
+141,Male,3,No,4,No,Yes,Yes,Operations,,3,Operations,Full Time,Yes,35,Switzerland,5,0.05609
+142,Male,3,Yes,,No,No,No,Operations,,3,Operations,Full Time,No,34,Switzerland,0,0.295475
+143,Female,6,No,3,No,No,Yes,Operations,Yes,,Operations,Part Time,No,31,Switzerland,2,0.940402
+144,Male,1,Yes,,No,No,No,Strategy,,1,Strategy,Full Time,No,49,Switzerland,0,0.445568
+145,Male,4,No,2,No,Yes,Yes,Sales & Marketing,,4,Sales & Marketing,Full Time,No,36,Spain,4,0.037523
+146,Male,6,No,2,No,Yes,Yes,Sales & Marketing,,6,Sales & Marketing,Full Time,No,26,France,3,0.558286
+147,Female,4,Yes,,No,No,No,Operations,,4,Operations,Full Time,No,42,Germany,0,0.393311
+148,Male,6,No,3,No,Yes,Yes,Operations,,6,Operations,Full Time,No,23,Switzerland,2,0.753476
+149,Male,4,No,4,No,Yes,Yes,Sales & Marketing,,4,Sales & Marketing,Full Time,No,36,Germany,5,0.858467
+150,Male,4,No,2,No,Yes,Yes,Operations,,4,Operations,Full Time,No,36,Switzerland,4,0.871875
+151,Female,5,No,,No,No,Yes,Sales & Marketing,Yes,,Sales & Marketing,Full Time,No,41,Italy,4,0.558398
+152,Male,2,No,2,No,Yes,Yes,HR,,2,HR,Full Time,No,42,France,8,0.649099
+153,Female,3,Yes,,No,No,No,Sales & Marketing,,3,Sales & Marketing,Full Time,No,40,Switzerland,0,0.775634
+154,Male,6,No,2,No,Yes,Yes,Operations,,6,Operations,Full Time,No,31,Switzerland,1,0.182566
+155,Female,6,No,3,No,Yes,Yes,Operations,,6,Operations,Full Time,No,22,Switzerland,2,0.489993
+156,Male,6,No,2,No,No,Yes,Internal Services,Yes,,Internal Services,Full Time,No,39,Italy,5,0.526538
+157,Female,5,Yes,,No,No,No,Operations,,5,Operations,Part Time,No,28,Switzerland,0,0.630137
+158,Male,6,No,3,No,Yes,Yes,Internal Services,,6,Internal Services,Full Time,No,23,Switzerland,3,0.130107
+159,Male,3,No,3,No,Yes,Yes,Sales & Marketing,,3,Sales & Marketing,Full Time,No,39,Germany,3,0.773747
+160,Male,3,No,1,No,Yes,Yes,Sales & Marketing,,3,Sales & Marketing,Full Time,Yes,35,Switzerland,3,0.010273
+161,Male,4,No,2,No,Yes,Yes,Operations,,4,Operations,Full Time,No,35,Switzerland,9,0.473305
+162,Male,6,No,2,No,Yes,Yes,Operations,,6,Operations,Full Time,No,26,France,3,0.667511
+163,Male,4,No,3,No,Yes,Yes,Finance,,4,Finance,Full Time,No,36,Switzerland,3,0.564058
+164,Male,5,No,3,No,No,Yes,Operations,Yes,,Operations,Full Time,No,56,Netherlands,9,0.014701
+165,Female,6,No,3,No,Yes,Yes,Operations,,6,Operations,Full Time,No,26,France,1,0.328958
+166,Male,5,No,2,No,Yes,Yes,Sales & Marketing,,5,Sales & Marketing,Full Time,No,24,Switzerland,7,0.272487
+167,Male,3,No,2,No,Yes,Yes,Internal Services,,3,Internal Services,Full Time,No,40,Germany,3,0.639349
+168,Male,5,No,2,No,Yes,Yes,Sales & Marketing,,5,Sales & Marketing,Full Time,No,25,France,9,0.064745
+169,Female,5,No,1,No,Yes,Yes,Sales & Marketing,,5,Sales & Marketing,Full Time,No,32,France,2,0.212908
+170,Male,4,No,2,No,Yes,Yes,Sales & Marketing,,4,Sales & Marketing,Full Time,No,35,Switzerland,3,0.639916
+171,Female,4,No,3,No,Yes,Yes,Sales & Marketing,,4,Sales & Marketing,Part Time,No,41,Italy,9,0.237397
+172,Male,3,No,3,No,Yes,Yes,HR,,3,HR,Full Time,No,36,Switzerland,4,0.947047
+173,Female,5,No,2,No,Yes,Yes,Operations,,5,Operations,Part Time,Yes,30,Italy,7,0.534081
+174,Male,2,No,2,No,Yes,Yes,Operations,,2,Operations,Full Time,No,44,France,9,0.946353
+175,Male,5,No,2,Yes,Yes,Yes,Finance,,4,Finance,Full Time,Yes,36,Switzerland,4,0.466405
+176,Female,3,No,2,Yes,Yes,Yes,Internal Services,,2,Internal Services,Full Time,No,46,France,4,0.109329
+177,Male,4,No,3,No,Yes,Yes,Operations,,4,Operations,Full Time,No,30,Spain,5,0.771547
+178,Male,5,No,3,No,Yes,Yes,Internal Services,,5,Internal Services,Part Time,No,34,Switzerland,9,0.465275
+179,Male,5,No,2,Yes,Yes,Yes,Sales & Marketing,,4,Sales & Marketing,Full Time,No,33,Germany,5,0.275896
+180,Male,3,No,2,No,No,Yes,HR,Yes,,HR,Full Time,No,34,Switzerland,4,0.843771
+181,Female,5,No,3,No,Yes,Yes,Operations,,5,Operations,Full Time,Yes,29,Italy,8,0.470312
+182,Female,6,No,3,No,No,Yes,Internal Services,Yes,,Internal Services,Full Time,No,44,Germany,2,0.260224
+183,Female,5,No,2,No,Yes,Yes,Operations,,5,Operations,Part Time,No,28,United States,3,0.456461
+184,Male,6,Yes,,No,No,No,Internal Services,,6,Internal Services,Part Time,No,22,Switzerland,0,0.799198
+185,Male,6,Yes,,No,No,No,Sales & Marketing,,6,Sales & Marketing,Full Time,No,25,Germany,0,0.897949
+186,Female,6,No,3,No,Yes,Yes,Operations,,6,Operations,Full Time,No,28,Germany,2,0.222378
+187,Male,5,No,1,No,Yes,Yes,Sales & Marketing,,5,Sales & Marketing,Full Time,No,30,China,3,0.972513
+188,Male,5,No,2,No,Yes,Yes,Sales & Marketing,,5,Sales & Marketing,Full Time,No,29,Switzerland,9,0.258456
+189,Female,6,No,3,No,Yes,Yes,Operations,,6,Operations,Full Time,No,26,Switzerland,2,0.120729
+190,Female,5,No,2,No,Yes,Yes,Operations,,5,Operations,Full Time,No,33,Switzerland,9,0.161899
+191,Male,5,No,3,No,No,Yes,Sales & Marketing,Yes,,Sales & Marketing,Full Time,No,62,Switzerland,9,0.330513
+192,Male,2,Yes,,No,No,No,Operations,,2,Operations,Full Time,No,39,Switzerland,0,0.414031
+193,Male,4,No,3,No,No,Yes,Operations,Yes,,Operations,Full Time,No,25,France,9,0.030929
+194,Female,6,Yes,,No,No,No,Internal Services,,6,Internal Services,Full Time,No,22,Switzerland,0,0.643665
+195,Male,5,No,3,No,Yes,Yes,Operations,,5,Operations,Full Time,No,30,Switzerland,2,0.441389
+196,Male,3,Yes,,No,No,No,Operations,,3,Operations,Full Time,No,40,Switzerland,0,0.797533
+197,Male,6,No,3,No,Yes,Yes,Finance,,6,Finance,Full Time,No,23,France,5,0.978666
+198,Female,6,No,2,No,No,Yes,Sales & Marketing,Yes,,Sales & Marketing,Full Time,No,41,Switzerland,1,0.876594
+199,Female,6,No,3,No,Yes,Yes,Internal Services,,6,Internal Services,Full Time,No,24,Switzerland,2,0.961956
+200,Male,5,No,3,No,No,Yes,Operations,Yes,,Operations,Full Time,No,41,Italy,9,0.051086
+201,Female,5,Yes,,No,No,No,HR,,5,HR,Part Time,No,33,France,0,0.46457
+202,Male,4,No,3,No,Yes,Yes,Internal Services,,4,Internal Services,Full Time,No,34,United States,8,0.695422
+203,Male,6,No,3,No,Yes,Yes,Operations,,6,Operations,Full Time,No,26,Germany,1,0.230514
+204,Male,6,Yes,,No,No,No,Sales & Marketing,,6,Sales & Marketing,Full Time,No,22,Switzerland,0,0.963923
+205,Male,3,No,2,No,Yes,Yes,Sales & Marketing,,3,Sales & Marketing,Full Time,No,40,Switzerland,6,0.205218
+206,Male,4,No,2,No,Yes,Yes,Finance,,4,Finance,Full Time,Yes,36,United Kingdom,5,0.949893
+207,Male,2,Yes,,No,No,No,Internal Services,,2,Internal Services,Full Time,No,38,Switzerland,0,0.723832
+208,Female,6,No,1,No,Yes,Yes,Internal Services,,6,Internal Services,Full Time,No,25,Switzerland,2,0.927192
+209,Female,6,No,3,No,Yes,Yes,Operations,,6,Operations,Full Time,No,28,Germany,3,0.078591
+210,Female,4,No,,No,No,Yes,Sales & Marketing,Yes,,Sales & Marketing,Full Time,No,51,Switzerland,9,0.171489
+211,Male,6,No,3,No,Yes,Yes,Operations,,6,Operations,Full Time,No,21,Switzerland,3,0.938565
+212,Male,5,Yes,,No,No,No,Sales & Marketing,,5,Sales & Marketing,Full Time,No,27,Switzerland,0,0.572147
+213,Female,2,No,4,No,Yes,Yes,HR,,2,HR,Full Time,No,44,Switzerland,3,0.760624
+214,Female,6,Yes,,No,No,No,Sales & Marketing,,6,Sales & Marketing,Full Time,No,28,France,0,0.045488
+215,Male,4,No,1,Yes,Yes,Yes,Operations,,3,Operations,Full Time,No,37,Switzerland,9,0.483062
+216,Female,5,No,,No,No,Yes,Operations,Yes,,Operations,Full Time,No,44,France,9,0.657774
+217,Female,6,No,2,No,Yes,Yes,Sales & Marketing,,6,Sales & Marketing,Full Time,No,22,Switzerland,1,0.829755
+218,Male,5,No,2,No,Yes,Yes,Sales & Marketing,,5,Sales & Marketing,Full Time,No,29,Switzerland,7,0.70031
+219,Female,3,Yes,,No,No,No,Operations,,3,Operations,Full Time,No,36,Switzerland,0,0.099542
+220,Male,5,No,3,No,Yes,Yes,Sales & Marketing,,5,Sales & Marketing,Full Time,No,29,Germany,9,0.654643
+221,Female,5,Yes,,No,No,No,Strategy,,5,Strategy,Full Time,No,28,Switzerland,0,0.353606
+222,Male,2,No,3,Yes,Yes,Yes,Sales & Marketing,,1,Sales & Marketing,Full Time,No,39,Switzerland,8,0.904716
+223,Female,5,No,,No,No,Yes,Sales & Marketing,Yes,,Sales & Marketing,Full Time,No,29,Switzerland,9,0.074183
+224,Male,3,No,2,No,Yes,Yes,Internal Services,,3,Internal Services,Full Time,No,46,Germany,9,0.371997
+225,Male,5,No,2,No,Yes,Yes,Sales & Marketing,,5,Sales & Marketing,Full Time,Yes,25,Romania,6,0.588564
+226,Male,6,No,2,No,Yes,Yes,Sales & Marketing,,6,Sales & Marketing,Full Time,No,21,Switzerland,3,0.850684
+227,Male,4,No,3,No,No,Yes,Sales & Marketing,Yes,,Sales & Marketing,Full Time,No,43,Switzerland,9,0.53817
+228,Male,5,No,2,Yes,Yes,Yes,Internal Services,,4,Internal Services,Full Time,No,31,Switzerland,4,0.357396
+229,Male,3,No,2,No,Yes,Yes,Internal Services,,3,Internal Services,Full Time,No,35,Switzerland,4,0.61349
+230,Female,6,No,2,No,No,Yes,Operations,Yes,,Operations,Full Time,No,42,Switzerland,2,0.814246
+231,Male,3,No,3,No,Yes,Yes,Finance,,3,Finance,Full Time,No,39,France,4,0.265919
+232,Female,6,No,2,Yes,Yes,Yes,Operations,,5,Operations,Full Time,No,34,Spain,3,0.639561
+233,Female,6,Yes,,No,No,No,Strategy,,6,Strategy,Part Time,No,25,Switzerland,0,0.130046
+234,Female,6,No,2,Yes,Yes,Yes,Operations,,5,Operations,Full Time,No,29,Germany,2,0.133467
+235,Male,4,No,3,No,Yes,Yes,Internal Services,,4,Internal Services,Full Time,No,32,Switzerland,6,0.575899
+236,Female,6,No,3,No,Yes,Yes,Sales & Marketing,,6,Sales & Marketing,Full Time,No,22,Switzerland,1,0.146405
+237,Female,6,No,2,Yes,Yes,Yes,Operations,,5,Operations,Full Time,No,31,Switzerland,4,0.916185
+238,Female,6,Yes,,No,No,No,Operations,,6,Operations,Full Time,No,22,France,0,0.823903
+239,Male,4,No,2,No,Yes,Yes,Sales & Marketing,,4,Sales & Marketing,Full Time,No,36,Italy,6,0.385412
+240,Female,6,No,2,No,Yes,Yes,Operations,,6,Operations,Full Time,No,27,Italy,4,0.55043
+241,Female,4,No,2,No,Yes,Yes,Internal Services,,4,Internal Services,Full Time,No,38,Germany,2,0.00824
+242,Male,5,No,3,No,No,Yes,Internal Services,Yes,,Internal Services,Full Time,No,37,France,3,0.745973
+243,Male,2,No,3,No,Yes,Yes,Operations,,2,Operations,Full Time,Yes,42,Switzerland,7,0.299485
+244,Male,3,No,2,No,Yes,Yes,Sales & Marketing,,3,Sales & Marketing,Full Time,No,41,United Kingdom,9,0.361875
+245,Female,5,No,2,No,No,Yes,Operations,Yes,,Operations,Part Time,No,49,Switzerland,5,0.775532
+246,Male,6,No,3,No,No,Yes,Sales & Marketing,Yes,,Sales & Marketing,Full Time,No,25,Switzerland,5,0.580842
+247,Male,6,No,3,No,Yes,Yes,Operations,,6,Operations,Full Time,No,22,Switzerland,3,0.257191
+248,Male,4,No,2,No,Yes,Yes,Operations,,4,Operations,Full Time,Yes,30,Spain,8,0.493985
+249,Male,6,No,2,No,Yes,Yes,Operations,,6,Operations,Full Time,No,21,Switzerland,2,0.354031
+250,Male,6,No,2,No,No,Yes,Operations,Yes,,Operations,Full Time,No,24,Switzerland,5,0.197173
+251,Male,6,No,2,Yes,Yes,Yes,Sales & Marketing,,5,Sales & Marketing,Full Time,No,29,Switzerland,1,0.441944
+252,Female,6,No,2,No,Yes,Yes,Operations,,6,Operations,Full Time,No,27,Switzerland,2,0.520016
+253,Male,6,No,4,No,Yes,Yes,Finance,,6,Finance,Full Time,No,26,Switzerland,5,0.880046
+254,Female,6,No,2,No,Yes,Yes,Internal Services,,6,Internal Services,Full Time,No,23,Switzerland,2,0.729455
+255,Male,6,No,3,No,Yes,Yes,Operations,,6,Operations,Full Time,No,26,Switzerland,1,0.985821
+256,Female,5,No,3,No,Yes,Yes,Operations,,5,Operations,Full Time,No,29,Germany,5,0.626263
+257,Male,1,No,,No,No,Yes,Strategy,,1,Strategy,Full Time,No,43,Switzerland,9,0.286837
+258,Male,6,No,3,No,Yes,Yes,Operations,,6,Operations,Full Time,No,26,France,2,0.284267
+259,Female,6,No,3,No,Yes,Yes,HR,,6,HR,Full Time,No,23,Switzerland,3,0.642938
+260,Male,5,No,3,No,Yes,Yes,Sales & Marketing,,5,Sales & Marketing,Full Time,No,28,Switzerland,5,0.788212
+261,Female,4,No,2,No,Yes,Yes,HR,,4,HR,Full Time,No,39,France,7,0.457675
+262,Male,2,No,2,No,Yes,Yes,Finance,,2,Finance,Full Time,Yes,41,Switzerland,5,0.643565
+263,Male,5,Yes,,No,No,No,Operations,,5,Operations,Full Time,No,27,Austria,0,0.64837
+264,Male,6,No,2,Yes,Yes,Yes,Operations,,5,Operations,Full Time,No,28,France,1,0.237193
+265,Female,4,No,2,No,Yes,Yes,Operations,,4,Operations,Full Time,No,41,Switzerland,8,0.063694
+266,Female,5,No,3,No,Yes,Yes,Operations,,5,Operations,Part Time,No,32,Switzerland,2,0.121683
+267,Female,5,No,2,No,Yes,Yes,Finance,,5,Finance,Full Time,Yes,29,Switzerland,3,0.336342
+268,Female,6,No,3,No,Yes,Yes,Operations,,6,Operations,Full Time,No,23,France,3,0.785874
+269,Male,5,No,3,Yes,Yes,Yes,Strategy,,4,Strategy,Full Time,No,36,Switzerland,3,0.16586
+270,Female,6,No,2,No,Yes,Yes,Operations,,6,Operations,Full Time,No,27,Switzerland,5,0.197019
+271,Female,4,No,4,No,Yes,Yes,Sales & Marketing,,4,Sales & Marketing,Full Time,No,41,Switzerland,9,0.775888
+272,Female,2,Yes,,No,No,No,Operations,,2,Operations,Full Time,No,39,Switzerland,0,0.478685
+273,Female,6,No,3,No,Yes,Yes,Internal Services,,6,Internal Services,Full Time,No,24,Switzerland,4,0.759663
+274,Male,6,No,2,No,Yes,Yes,Operations,,6,Operations,Full Time,No,19,Switzerland,2,0.793164
+275,Female,2,No,3,No,No,Yes,Operations,Yes,,Operations,Full Time,No,41,France,5,0.538259
+276,Male,6,No,1,No,Yes,Yes,Sales & Marketing,,6,Sales & Marketing,Full Time,No,19,France,3,0.463783
+277,Male,6,No,3,No,Yes,Yes,Operations,,6,Operations,Full Time,No,23,France,3,0.16744
+278,Male,3,No,2,No,Yes,Yes,Sales & Marketing,,3,Sales & Marketing,Full Time,No,39,Switzerland,4,0.023206
+279,Male,6,No,2,No,Yes,Yes,Sales & Marketing,,6,Sales & Marketing,Full Time,No,24,Switzerland,4,0.912476
+280,Male,1,Yes,,No,No,No,Internal Services,,1,Internal Services,Full Time,No,38,France,0,0.276516
+281,Male,6,No,2,No,Yes,Yes,Operations,,6,Operations,Full Time,No,24,Italy,3,0.370984
+282,Male,2,No,2,No,Yes,Yes,Internal Services,,2,Internal Services,Full Time,No,44,France,9,0.193993
+283,Male,6,No,2,No,Yes,Yes,Operations,,6,Operations,Full Time,No,25,Switzerland,2,0.491086
+284,Male,6,No,3,No,Yes,Yes,Operations,,6,Operations,Full Time,No,21,France,3,0.219857
+285,Male,6,No,3,No,Yes,Yes,Sales & Marketing,,6,Sales & Marketing,Full Time,No,22,Switzerland,2,0.156138
+286,Male,4,No,3,No,Yes,Yes,Operations,,4,Operations,Full Time,Yes,30,Germany,2,0.898565
+287,Female,6,Yes,,No,No,No,Internal Services,,6,Internal Services,Part Time,No,22,France,0,0.029583
+288,Male,5,No,2,No,Yes,Yes,Sales & Marketing,,5,Sales & Marketing,Full Time,No,25,Germany,4,0.778654
+289,Female,5,No,3,No,Yes,Yes,Sales & Marketing,,5,Sales & Marketing,Full Time,No,33,Italy,4,0.704826
+290,Female,6,No,2,No,Yes,Yes,Operations,,6,Operations,Full Time,No,26,France,2,0.793275
+291,Female,4,No,2,No,Yes,Yes,Sales & Marketing,,4,Sales & Marketing,Full Time,No,38,Denmark,6,0.021245
+292,Male,6,No,3,No,Yes,Yes,Sales & Marketing,,6,Sales & Marketing,Full Time,No,22,France,2,0.875665
+293,Female,6,No,2,Yes,Yes,Yes,Internal Services,,5,Internal Services,Part Time,No,33,France,2,0.778232
+294,Female,4,Yes,,No,No,No,Operations,,4,Operations,Full Time,No,34,Switzerland,0,0.624598
+295,Female,5,No,2,No,Yes,Yes,Operations,,5,Operations,Full Time,No,28,Switzerland,8,0.279961
+296,Male,6,No,3,No,Yes,Yes,Sales & Marketing,,6,Sales & Marketing,Full Time,No,25,Netherlands,2,0.123209
+297,Male,6,No,3,No,Yes,Yes,Sales & Marketing,,6,Sales & Marketing,Full Time,No,24,Switzerland,2,0.350814
+298,Female,3,No,4,No,Yes,Yes,Operations,,3,Operations,Full Time,No,41,Switzerland,9,0.18063
+299,Male,6,No,3,Yes,Yes,Yes,Sales & Marketing,,5,Sales & Marketing,Full Time,No,24,Switzerland,3,0.555348
+300,Male,4,No,3,No,Yes,Yes,Operations,,4,Operations,Full Time,No,32,France,4,0.881058
+301,Female,6,No,3,No,Yes,Yes,Operations,,6,Operations,Full Time,No,25,Switzerland,2,0.866343
+302,Female,6,No,2,No,Yes,Yes,Internal Services,,6,Internal Services,Full Time,No,26,Switzerland,2,0.745358
+303,Male,4,Yes,,No,No,No,Operations,,4,Operations,Full Time,No,34,Switzerland,0,0.754887
+304,Female,3,No,2,No,Yes,Yes,Operations,,3,Operations,Full Time,No,50,Austria,8,0.61016
+305,Male,6,No,2,Yes,Yes,Yes,Sales & Marketing,,5,Sales & Marketing,Full Time,No,28,Italy,2,0.460972
+306,Female,6,No,3,No,Yes,Yes,Operations,,6,Operations,Full Time,No,26,Switzerland,1,0.910347
+307,Male,6,No,3,No,Yes,Yes,Operations,,6,Operations,Full Time,No,25,Switzerland,1,0.835419
+308,Female,5,Yes,,No,No,No,Sales & Marketing,,5,Sales & Marketing,Full Time,No,30,Switzerland,0,0.924224
+309,Male,4,No,3,No,No,Yes,Sales & Marketing,Yes,,Sales & Marketing,Full Time,No,46,Switzerland,7,0.008533
+310,Female,4,Yes,,No,No,No,Operations,,4,Operations,Full Time,No,37,Germany,0,0.628052
+311,Female,6,No,2,No,Yes,Yes,Operations,,6,Operations,Full Time,No,22,Italy,3,0.970504
+312,Female,5,No,2,No,Yes,Yes,Operations,,5,Operations,Full Time,No,34,Germany,8,0.106989
+313,Male,6,No,2,No,Yes,Yes,Operations,,6,Operations,Full Time,No,22,France,2,0.118401
+314,Female,6,Yes,,No,No,No,Operations,,6,Operations,Full Time,No,24,France,0,0.887507
+315,Female,6,Yes,,No,No,No,Operations,,6,Operations,Part Time,No,26,Switzerland,0,0.568133
+316,Male,1,No,,No,No,Yes,Operations,,1,Operations,Full Time,Yes,48,France,7,0.787335
+317,Female,6,No,1,Yes,Yes,Yes,Operations,,5,Operations,Full Time,No,28,Switzerland,5,0.403119
+318,Female,3,Yes,,No,No,No,Operations,,3,Operations,Full Time,No,43,Germany,0,0.579815
+319,Male,6,No,1,Yes,Yes,Yes,Operations,,5,Operations,Full Time,No,27,Germany,2,0.124693
+320,Female,5,Yes,,No,No,No,Sales & Marketing,,5,Sales & Marketing,Full Time,No,31,Switzerland,0,0.288137
+321,Male,3,No,3,No,Yes,Yes,Operations,,3,Operations,Full Time,No,38,Switzerland,9,0.41184
+322,Female,3,No,3,No,Yes,Yes,Internal Services,,3,Internal Services,Full Time,No,43,Switzerland,4,0.198433
+323,Male,5,No,2,No,Yes,Yes,Sales & Marketing,,5,Sales & Marketing,Full Time,No,24,Switzerland,3,0.516292
+324,Male,3,No,2,Yes,Yes,Yes,Internal Services,,2,Internal Services,Full Time,Yes,35,Switzerland,7,0.583939
+325,Female,5,No,2,No,Yes,Yes,Operations,,5,Operations,Part Time,No,30,Switzerland,4,0.668057
+326,Male,2,No,2,No,Yes,Yes,Sales & Marketing,,2,Sales & Marketing,Full Time,No,37,France,5,0.139247
+327,Male,4,No,3,No,Yes,Yes,Sales & Marketing,,4,Sales & Marketing,Full Time,Yes,40,Switzerland,6,0.568036
+328,Female,5,No,3,No,Yes,Yes,Operations,,5,Operations,Full Time,No,30,Germany,6,0.147629
+329,Female,4,No,,No,No,Yes,Sales & Marketing,Yes,,Sales & Marketing,Full Time,No,45,Italy,7,0.756085
+330,Female,4,No,3,No,No,Yes,Operations,Yes,,Operations,Part Time,No,51,Switzerland,5,0.055719
+331,Female,6,No,2,No,Yes,Yes,Sales & Marketing,,6,Sales & Marketing,Full Time,No,24,Switzerland,3,0.614114
+332,Male,6,No,2,No,Yes,Yes,Operations,,6,Operations,Full Time,No,21,Switzerland,2,0.940259
+333,Male,6,No,3,No,Yes,Yes,Sales & Marketing,,6,Sales & Marketing,Full Time,No,26,Switzerland,1,0.43787
+334,Male,6,No,3,No,Yes,Yes,Internal Services,,6,Internal Services,Full Time,No,19,Germany,2,0.50791
+335,Female,6,No,3,No,Yes,Yes,Operations,,6,Operations,Full Time,No,22,Switzerland,3,0.39065
+336,Male,6,No,2,No,Yes,Yes,Sales & Marketing,,6,Sales & Marketing,Full Time,No,21,France,3,0.299947
+337,Male,2,No,2,No,Yes,Yes,Strategy,,2,Strategy,Full Time,No,43,Switzerland,4,0.187756
+338,Female,6,No,2,No,Yes,Yes,Operations,,6,Operations,Full Time,No,26,France,2,0.332726
+339,Female,4,No,3,No,Yes,Yes,Sales & Marketing,,4,Sales & Marketing,Full Time,No,35,Switzerland,4,0.026254
+340,Male,5,No,2,No,Yes,Yes,Internal Services,,5,Internal Services,Full Time,No,25,France,6,0.70105
+341,Female,6,Yes,,No,No,No,Sales & Marketing,,6,Sales & Marketing,Full Time,No,26,Switzerland,0,0.500371
+342,Female,4,No,3,No,Yes,Yes,Finance,,4,Finance,Part Time,No,36,Switzerland,3,0.318548
+343,Female,1,No,,No,No,Yes,HR,,1,HR,Full Time,No,47,Switzerland,3,0.671323
+344,Male,5,No,2,Yes,Yes,Yes,Operations,,4,Operations,Full Time,No,35,Germany,1,0.774306
+345,Female,6,No,2,No,Yes,Yes,Sales & Marketing,,6,Sales & Marketing,Full Time,No,22,Switzerland,3,0.090486
+346,Male,4,No,3,No,Yes,Yes,Internal Services,,4,Internal Services,Full Time,No,32,Malaysia,7,0.25448
+347,Male,3,No,3,No,Yes,Yes,Operations,,3,Operations,Full Time,No,48,Switzerland,6,0.26528
+348,Male,5,No,3,No,Yes,Yes,Operations,,5,Operations,Full Time,No,25,United Kingdom,4,0.105745
+349,Female,6,No,3,No,Yes,Yes,Operations,,6,Operations,Full Time,No,22,Germany,3,0.610804
+350,Male,6,No,3,No,No,Yes,Operations,Yes,,Operations,Full Time,No,27,Germany,2,0.181344
+351,Male,4,No,2,No,Yes,Yes,Sales & Marketing,,4,Sales & Marketing,Full Time,No,36,Germany,4,0.557571
+352,Male,6,No,2,Yes,Yes,Yes,Sales & Marketing,,5,Sales & Marketing,Full Time,No,29,Switzerland,1,0.652022
+353,Female,5,No,3,No,Yes,Yes,Sales & Marketing,,5,Sales & Marketing,Full Time,No,31,Germany,4,0.776295
+354,Female,6,Yes,,No,No,No,Operations,,6,Operations,Full Time,No,23,Greece,0,0.460475
+355,Male,6,Yes,,No,No,No,Operations,,6,Operations,Full Time,No,23,Italy,0,0.607491
+356,Male,5,No,2,Yes,Yes,Yes,Sales & Marketing,,4,Sales & Marketing,Full Time,No,32,Switzerland,3,0.100711
+357,Female,6,No,2,No,Yes,Yes,Operations,,6,Operations,Full Time,No,27,Switzerland,3,0.30415
+358,Female,5,No,3,No,Yes,Yes,Operations,,5,Operations,Part Time,No,33,France,9,0.442889
+359,Female,5,No,2,No,Yes,Yes,Sales & Marketing,,5,Sales & Marketing,Full Time,No,28,United States,9,0.885787
+360,Male,5,Yes,,No,No,No,Internal Services,,5,Internal Services,Full Time,No,24,Italy,0,0.144778
+361,Male,3,No,2,No,Yes,Yes,Internal Services,,3,Internal Services,Full Time,No,38,Switzerland,9,0.182575
+362,Female,6,No,3,No,Yes,Yes,Operations,,6,Operations,Full Time,No,26,United States,5,0.594293
+363,Male,1,No,,No,No,Yes,Strategy,,1,Strategy,Full Time,No,45,France,7,0.723072
+364,Male,5,No,4,No,Yes,Yes,Operations,,5,Operations,Full Time,Yes,29,France,2,0.25625
+365,Male,4,No,3,No,Yes,Yes,Sales & Marketing,,4,Sales & Marketing,Full Time,No,31,Switzerland,9,0.617025
+366,Female,6,No,1,Yes,Yes,Yes,Finance,,5,Finance,Full Time,No,34,Switzerland,3,0.728743
+367,Female,5,Yes,,No,No,No,Sales & Marketing,,5,Sales & Marketing,Full Time,No,29,Switzerland,0,0.05374
+368,Male,5,Yes,,No,No,No,Sales & Marketing,,5,Sales & Marketing,Full Time,No,29,Switzerland,0,0.057581
+369,Female,5,No,,No,No,Yes,Sales & Marketing,Yes,,Sales & Marketing,Full Time,No,45,Russia,9,0.203587
+370,Female,6,No,1,No,Yes,Yes,Operations,,6,Operations,Full Time,No,28,Switzerland,1,0.865832
+371,Male,6,No,2,No,Yes,Yes,Operations,,6,Operations,Full Time,No,26,Switzerland,1,0.450637
+372,Male,4,No,2,Yes,Yes,Yes,Sales & Marketing,,3,Sales & Marketing,Full Time,No,43,France,5,0.01442
+373,Male,4,No,2,No,Yes,Yes,Operations,,4,Operations,Full Time,No,34,Switzerland,8,0.174275
+374,Female,4,No,3,No,Yes,Yes,Internal Services,,4,Internal Services,Full Time,No,41,France,6,0.400999
+375,Female,5,No,2,No,Yes,Yes,Operations,,5,Operations,Full Time,No,28,Germany,9,0.525007
+376,Male,3,No,2,No,Yes,Yes,Sales & Marketing,,3,Sales & Marketing,Full Time,Yes,34,Switzerland,3,0.741541
+377,Female,6,No,2,No,Yes,Yes,Strategy,,6,Strategy,Full Time,No,24,Switzerland,3,0.024636
+378,Male,6,Yes,,No,No,No,Operations,,6,Operations,Full Time,No,20,France,0,0.256069
+379,Female,5,No,3,No,Yes,Yes,Sales & Marketing,,5,Sales & Marketing,Full Time,Yes,29,Italy,7,0.82858
+380,Female,6,No,3,No,Yes,Yes,Sales & Marketing,,6,Sales & Marketing,Full Time,No,22,Switzerland,3,0.198254
+381,Male,6,No,2,No,Yes,Yes,Finance,,6,Finance,Full Time,No,23,Switzerland,2,0.566804
+382,Male,6,No,2,No,Yes,Yes,Internal Services,,6,Internal Services,Full Time,No,23,Switzerland,2,0.415406
+383,Male,3,No,2,No,No,Yes,Sales & Marketing,Yes,,Sales & Marketing,Full Time,No,28,Switzerland,9,0.110786
+384,Male,6,Yes,,No,No,No,Operations,,6,Operations,Full Time,No,24,Italy,0,0.153293
+385,Male,3,No,2,Yes,Yes,Yes,Sales & Marketing,,2,Sales & Marketing,Full Time,No,44,France,4,0.367626
+386,Female,6,No,2,No,Yes,Yes,HR,,6,HR,Full Time,No,24,France,3,0.242863
+387,Female,4,No,2,No,Yes,Yes,Operations,,4,Operations,Full Time,No,40,Italy,5,0.112847
+388,Male,6,No,2,No,Yes,Yes,Sales & Marketing,,6,Sales & Marketing,Full Time,No,25,Switzerland,3,0.701756
+389,Male,6,No,3,No,Yes,Yes,Operations,,6,Operations,Full Time,No,20,Switzerland,3,0.243103
+390,Male,6,No,2,No,Yes,Yes,Internal Services,,6,Internal Services,Full Time,No,24,Switzerland,2,0.895003
+391,Male,4,No,2,No,Yes,Yes,Internal Services,,4,Internal Services,Full Time,No,36,Switzerland,8,0.983195
+392,Male,3,No,3,No,Yes,Yes,Operations,,3,Operations,Full Time,Yes,41,France,6,0.527608
+393,Male,5,No,2,No,Yes,Yes,Operations,,5,Operations,Full Time,No,28,Switzerland,9,0.643478
+394,Male,4,No,3,No,Yes,Yes,Operations,,4,Operations,Full Time,No,34,Switzerland,7,0.736234
+395,Male,6,No,2,No,Yes,Yes,Operations,,6,Operations,Full Time,No,22,France,3,0.005048
+396,Female,6,No,3,No,Yes,Yes,Sales & Marketing,,6,Sales & Marketing,Full Time,No,28,France,1,0.515568
+397,Male,4,Yes,,No,No,No,Sales & Marketing,,4,Sales & Marketing,Full Time,No,32,Switzerland,0,0.893172
+398,Male,4,No,2,No,Yes,Yes,Operations,,4,Operations,Full Time,Yes,34,France,9,0.520538
+399,Male,6,No,2,No,Yes,Yes,Sales & Marketing,,6,Sales & Marketing,Full Time,No,21,Germany,3,0.078567
+400,Female,6,Yes,,No,No,No,Operations,,6,Operations,Full Time,No,22,Germany,0,0.648776
+401,Female,6,No,4,No,Yes,Yes,Operations,,6,Operations,Full Time,No,26,Germany,2,0.166074
+402,Female,5,Yes,,No,No,No,Operations,,5,Operations,Part Time,No,33,Switzerland,0,0.142135
+403,Male,6,No,2,No,Yes,Yes,Sales & Marketing,,6,Sales & Marketing,Full Time,No,23,France,3,0.828023
+404,Male,1,No,,No,No,Yes,Strategy,,1,Strategy,Full Time,No,50,France,4,0.192014
+405,Male,1,No,,No,No,Yes,Strategy,,1,Strategy,Full Time,No,47,Switzerland,8,0.480648
+406,Male,3,No,2,No,Yes,Yes,Operations,,3,Operations,Full Time,No,36,France,3,0.703798
+407,Male,2,No,2,No,Yes,Yes,Internal Services,,2,Internal Services,Full Time,No,61,Switzerland,5,0.691487
+408,Male,5,No,2,No,Yes,Yes,Sales & Marketing,,5,Sales & Marketing,Full Time,No,26,Switzerland,5,0.612753
+409,Female,6,No,2,No,Yes,Yes,Sales & Marketing,,6,Sales & Marketing,Full Time,No,24,Switzerland,5,0.070858
+410,Male,5,Yes,,No,No,No,Sales & Marketing,,5,Sales & Marketing,Full Time,No,27,Switzerland,0,0.083985
+411,Female,4,Yes,,No,No,No,Operations,,4,Operations,Full Time,No,40,Germany,0,0.822502
+412,Female,5,No,2,No,Yes,Yes,Operations,,5,Operations,Full Time,No,31,France,7,0.626561
+413,Male,2,No,3,No,Yes,Yes,Internal Services,,2,Internal Services,Full Time,No,46,Switzerland,7,0.760837
+414,Female,5,No,3,No,Yes,Yes,Operations,,5,Operations,Part Time,Yes,31,Germany,5,0.63965
+415,Male,6,No,2,No,Yes,Yes,Sales & Marketing,,6,Sales & Marketing,Full Time,No,24,Italy,1,0.60629
+416,Male,3,No,2,No,Yes,Yes,Strategy,,3,Strategy,Full Time,No,39,Switzerland,8,0.69703
+417,Male,3,No,2,No,Yes,Yes,Operations,,3,Operations,Full Time,No,36,Switzerland,2,0.538286
+418,Female,6,No,2,Yes,Yes,Yes,Sales & Marketing,,5,Sales & Marketing,Part Time,No,31,Switzerland,2,0.94705
+419,Male,6,No,3,No,Yes,Yes,Sales & Marketing,,6,Sales & Marketing,Full Time,No,21,Switzerland,3,0.61724
+420,Female,5,No,3,No,Yes,Yes,Operations,,5,Operations,Part Time,No,33,Germany,6,0.14029
+421,Male,2,No,3,Yes,Yes,Yes,Strategy,,1,Strategy,Full Time,No,48,France,5,0.380734
+422,Female,6,No,2,No,Yes,Yes,Operations,,6,Operations,Full Time,No,24,Switzerland,2,0.018252
+423,Male,6,No,3,No,Yes,Yes,Operations,,6,Operations,Full Time,No,24,Germany,3,0.475903
+424,Female,6,Yes,,No,No,No,Operations,,6,Operations,Full Time,No,22,Switzerland,0,0.71355
+425,Male,1,No,,No,No,Yes,Strategy,,1,Strategy,Full Time,Yes,42,Germany,5,0.756755
+426,Female,6,No,2,No,Yes,Yes,Sales & Marketing,,6,Sales & Marketing,Full Time,No,25,Italy,2,0.128382
+427,Male,1,Yes,,No,No,No,Strategy,,1,Strategy,Full Time,No,60,France,0,0.53434
+428,Female,5,No,3,No,No,Yes,Finance,Yes,,Finance,Full Time,No,35,Switzerland,8,0.842092
+429,Male,3,No,2,No,Yes,Yes,Operations,,3,Operations,Full Time,Yes,37,United Kingdom,7,0.556315
+430,Male,5,No,4,No,Yes,Yes,Sales & Marketing,,5,Sales & Marketing,Full Time,No,27,Switzerland,4,0.354401
+431,Male,4,No,4,No,Yes,Yes,Operations,,4,Operations,Full Time,No,33,Switzerland,2,0.796684
+432,Female,6,No,2,No,Yes,Yes,Operations,,6,Operations,Full Time,No,23,France,2,0.52289
+433,Male,2,No,3,No,Yes,Yes,Operations,,2,Operations,Full Time,No,37,Switzerland,3,0.3064
+434,Female,4,Yes,,No,No,No,Internal Services,,4,Internal Services,Full Time,No,38,Germany,0,0.518065
+435,Female,4,No,1,Yes,Yes,Yes,HR,,3,HR,Full Time,No,39,Switzerland,9,0.3026
+436,Female,6,No,3,No,Yes,Yes,Operations,,6,Operations,Full Time,No,22,France,4,0.81223
+437,Male,4,No,2,No,Yes,Yes,Internal Services,,4,Internal Services,Full Time,No,34,France,5,0.414759
+438,Male,2,No,3,No,Yes,Yes,Operations,,2,Operations,Full Time,No,36,France,9,0.33132
+439,Female,6,No,2,No,No,Yes,Internal Services,Yes,,Internal Services,Full Time,No,30,Switzerland,3,0.389944
+440,Male,4,No,2,Yes,Yes,Yes,Internal Services,,3,Internal Services,Full Time,Yes,42,Italy,4,0.906848
+441,Female,6,Yes,,No,No,No,Sales & Marketing,,6,Sales & Marketing,Full Time,No,28,France,0,0.537111
+442,Female,5,No,2,Yes,Yes,Yes,Operations,,4,Operations,Full Time,No,42,Germany,9,0.139536
+443,Male,6,No,3,No,Yes,Yes,Operations,,6,Operations,Full Time,No,21,France,2,0.804256
+444,Male,5,No,3,No,Yes,Yes,Sales & Marketing,,5,Sales & Marketing,Full Time,Yes,24,Switzerland,5,0.603688
+445,Male,4,No,2,No,Yes,Yes,Internal Services,,4,Internal Services,Full Time,No,34,Switzerland,8,0.521392
+446,Male,2,No,2,No,Yes,Yes,Sales & Marketing,,2,Sales & Marketing,Full Time,No,41,Switzerland,6,0.074043
+447,Female,6,No,2,No,Yes,Yes,Sales & Marketing,,6,Sales & Marketing,Full Time,No,24,Switzerland,3,0.67749
+448,Male,3,No,2,No,Yes,Yes,Operations,,3,Operations,Full Time,No,33,Switzerland,5,0.219089
+449,Male,6,No,2,No,Yes,Yes,Operations,,6,Operations,Full Time,No,19,Switzerland,3,0.714956
+450,Male,5,No,2,No,Yes,Yes,Operations,,5,Operations,Full Time,No,30,Switzerland,7,0.668839
+451,Male,5,No,2,No,Yes,Yes,Sales & Marketing,,5,Sales & Marketing,Full Time,No,25,France,2,0.03811
+452,Female,6,No,2,No,Yes,Yes,Operations,,6,Operations,Full Time,No,23,Belgium,2,0.574047
+453,Male,2,No,2,No,Yes,Yes,Sales & Marketing,,2,Sales & Marketing,Full Time,No,39,Switzerland,8,0.783025
+454,Male,5,No,1,Yes,Yes,Yes,Operations,,4,Operations,Full Time,No,34,Switzerland,4,0.096671
+455,Female,1,No,,No,No,Yes,Sales & Marketing,,1,Sales & Marketing,Full Time,No,45,France,4,0.696152
+456,Male,5,No,2,No,Yes,Yes,Internal Services,,5,Internal Services,Full Time,No,28,Netherlands,7,0.845246
+457,Male,5,No,2,Yes,Yes,Yes,Sales & Marketing,,4,Sales & Marketing,Full Time,No,31,Switzerland,7,0.473443
+458,Female,3,No,4,No,Yes,Yes,Sales & Marketing,,3,Sales & Marketing,Full Time,No,48,Germany,9,0.143609
+459,Female,6,No,2,No,Yes,Yes,Internal Services,,6,Internal Services,Part Time,No,24,Switzerland,3,0.646797
+460,Male,4,No,3,No,Yes,Yes,Sales & Marketing,,4,Sales & Marketing,Full Time,No,32,Switzerland,5,0.34197
+461,Female,6,No,3,No,Yes,Yes,Operations,,6,Operations,Full Time,No,28,Switzerland,2,0.740095
+462,Male,4,No,2,Yes,Yes,Yes,Operations,,3,Operations,Full Time,No,39,Switzerland,4,0.024711
+463,Female,6,No,2,No,Yes,Yes,Operations,,6,Operations,Full Time,No,19,France,2,0.579288
+464,Male,6,No,2,No,Yes,Yes,Sales & Marketing,,6,Sales & Marketing,Full Time,No,21,France,1,0.550095
+465,Male,3,No,2,No,Yes,Yes,Sales & Marketing,,3,Sales & Marketing,Full Time,No,33,Switzerland,6,0.791682
+466,Female,6,No,3,No,Yes,Yes,Sales & Marketing,,6,Sales & Marketing,Part Time,No,26,Switzerland,3,0.282083
+467,Male,2,No,2,Yes,Yes,Yes,Sales & Marketing,,1,Sales & Marketing,Full Time,No,48,Switzerland,5,0.972041
+468,Male,1,No,,No,No,Yes,Strategy,Yes,,Strategy,Full Time,No,31,Switzerland,7,0.358088
+469,Male,6,No,2,No,Yes,Yes,Sales & Marketing,,6,Sales & Marketing,Full Time,No,23,France,2,0.912691
+470,Female,6,No,2,No,Yes,Yes,Operations,,6,Operations,Full Time,No,24,Germany,3,0.320972
+471,Male,6,No,3,No,Yes,Yes,Internal Services,,6,Internal Services,Full Time,No,24,France,2,0.175956
+472,Male,6,No,2,No,Yes,Yes,Internal Services,,6,Internal Services,Full Time,No,23,Switzerland,2,0.106102
+473,Female,4,No,2,Yes,Yes,Yes,Operations,,3,Operations,Full Time,No,49,Switzerland,8,0.035954
+474,Male,4,No,3,No,Yes,Yes,Sales & Marketing,,4,Sales & Marketing,Full Time,No,33,Switzerland,7,0.10641
+475,Female,6,No,2,No,Yes,Yes,Sales & Marketing,,6,Sales & Marketing,Part Time,No,25,France,3,0.214749
+476,Female,6,No,3,No,Yes,Yes,Operations,,6,Operations,Full Time,No,20,Germany,3,0.662984
+477,Female,2,No,2,Yes,Yes,Yes,Internal Services,,1,Internal Services,Full Time,No,44,Switzerland,6,0.902223
+478,Female,6,Yes,,No,No,No,Operations,,6,Operations,Full Time,No,25,Switzerland,0,0.820536
+479,Male,6,No,4,No,No,Yes,Operations,Yes,,Operations,Full Time,No,53,Switzerland,3,0.532996
+480,Male,3,Yes,,No,No,No,Sales & Marketing,,3,Sales & Marketing,Full Time,No,38,Switzerland,0,0.458761
+481,Male,3,No,2,No,Yes,Yes,Internal Services,,3,Internal Services,Full Time,No,37,Italy,4,0.897303
+482,Male,3,No,3,No,Yes,Yes,Operations,,3,Operations,Full Time,No,39,Switzerland,9,0.67365
+483,Female,6,No,3,No,No,Yes,Operations,Yes,,Operations,Part Time,No,36,Italy,4,0.777044
+484,Male,1,Yes,,No,No,No,Strategy,,1,Strategy,Full Time,No,61,Japan,0,0.270029
+485,Male,4,No,3,No,Yes,Yes,Operations,,4,Operations,Full Time,Yes,34,Germany,7,0.012236
+486,Female,6,No,2,No,No,Yes,Operations,Yes,,Operations,Full Time,No,47,Germany,2,0.173375
+487,Female,4,No,3,No,Yes,Yes,Internal Services,,4,Internal Services,Full Time,Yes,39,Italy,5,0.406439
+488,Female,6,No,2,No,Yes,Yes,Sales & Marketing,,6,Sales & Marketing,Full Time,No,26,Switzerland,1,0.618669
+489,Male,4,Yes,,No,No,No,Operations,,4,Operations,Full Time,No,30,Switzerland,0,0.298889
+490,Male,3,Yes,,No,No,No,Finance,,3,Finance,Full Time,No,33,Switzerland,0,0.856704
+491,Female,5,Yes,,No,No,No,Internal Services,,5,Internal Services,Full Time,No,33,United Kingdom,0,0.878623
+492,Male,2,No,1,No,Yes,Yes,Sales & Marketing,,2,Sales & Marketing,Full Time,No,42,Switzerland,8,0.969223
+493,Male,4,No,1,Yes,Yes,Yes,Sales & Marketing,,3,Sales & Marketing,Full Time,No,33,France,4,0.275844
+494,Female,6,No,4,No,Yes,Yes,Sales & Marketing,,6,Sales & Marketing,Full Time,No,27,Sweden,3,0.218346
+495,Female,6,No,2,No,Yes,Yes,Operations,,6,Operations,Full Time,No,22,Switzerland,3,0.290156
+496,Male,6,No,4,No,Yes,Yes,Sales & Marketing,,6,Sales & Marketing,Full Time,No,25,Germany,3,0.154807
+497,Female,5,No,2,No,Yes,Yes,Operations,,5,Operations,Part Time,No,32,Austria,9,0.913153
+498,Male,6,No,2,No,Yes,Yes,Sales & Marketing,,6,Sales & Marketing,Full Time,No,21,Canada,2,0.555284
+499,Male,3,No,2,No,Yes,Yes,Finance,,3,Finance,Full Time,Yes,42,Spain,4,0.970596
+500,Male,4,No,2,Yes,Yes,Yes,Sales & Marketing,,3,Sales & Marketing,Full Time,No,39,Switzerland,9,0.491492
