@@ -11,6 +11,7 @@ The HR at the telecom client of PwC is not seeing any progress in gender diversi
 3.	Calculate measures and determine the Key Performance Indicators.
 4.	Build a PowerBI dashboard to visualize the relationship and nature of KPIs. 
 5.	Make observations on the KPIs to recommend effective strategies that improve the gender balance.
+   ![PBIdashboard2](https://github.com/user-attachments/assets/42f9b697-0dfa-4bde-8ec4-00b131800e7e)
 ## Skills:
 Excel: Data Manipulation, Cell Formatting, Data Sorting & Filtering
 SQL: Aggregate Functions, Joins
