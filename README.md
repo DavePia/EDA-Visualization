@@ -24,6 +24,6 @@ This visualization enables us to draw several conclusions:
 4.	The wait time for promotion is maximum for women who are junior officers and senior officers.
 5.	The average performance rating for these positions for women is 2.5 (above average).
 ## Next Steps:
-1.	Increasing the representation of women in higher positions 
+1.	Increasing the representation of women at executive positions.
 2.	Introducing mentorship programs to catalyze the progress of women into higher positions.
 3.	Investigating the reasons behind the high wait times for women with above average performance ratings.
